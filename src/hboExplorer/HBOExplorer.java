@@ -1,15 +1,3 @@
-/* Feb. 25, 2019
- * Joel Cross 
- * 20071213, 17JDC1
- * CISC 124
- * 
- * This program is a tool which receives queries from, and produces 
- * results to, formatted text files. 
- * 
- * It reads the data in the HPO text file, parses it, and then can 
- * perform queries to print certain information to new text files.
- */
-
 package hboExplorer;
 import java.io.BufferedReader;
 import java.io.PrintWriter;
